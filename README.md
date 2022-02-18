@@ -16,10 +16,11 @@ What you'll learn:
 - Variables (int,double,String...)
 - Functions
 - Map
-- 
+- ...
 
-Cheat sheet:
-    Link: https://simplecheatsheet.com/tag/dart-cheat-sheet/
+Cheat sheet: 
+
+https://simplecheatsheet.com/tag/dart-cheat-sheet/
 
 
 ## Section 2: basic app
