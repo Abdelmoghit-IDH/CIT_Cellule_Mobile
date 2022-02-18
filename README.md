@@ -7,7 +7,22 @@ guide pour installer tout ce qu'il faut:
 
 https://flutter.dev/docs/get-started/install/windows?fbclid=IwAR3Zt1Z2et0s5AcI_TVMP-uiszg46lMuByiqxOtA6HyMT8QeNN2RaQkETKQ
 
-## Section 1: basic app
+
+## Section 1: Dart language basics
+
+The Dart language is designed to be easy to learn for coders coming from other languages, but it has a few unique features.
+
+What you'll learn: 
+- Variables (int,double,String...)
+- Functions
+- Map
+- 
+
+Cheat sheet:
+    Link: https://simplecheatsheet.com/tag/dart-cheat-sheet/
+
+
+## Section 2: basic app
 
 prototype: https://xd.adobe.com/view/13100427-be3f-4e99-be28-3aa2312c6758-4643/
 
@@ -17,7 +32,7 @@ What you'll learn:
 - How to insert image ( what is the pubspec.yaml file).
 - How to center a widget ( wrap it inside an other widget) => Understand the widget tree and use Columns and Rows as a concret example.
 
-## Section 2: conan app
+## Section 3: conan app
 
 prototype: https://xd.adobe.com/view/13100427-be3f-4e99-be28-3aa2312c6758-4643/screen/b75224ea-e293-44ac-80d1-50dab98dda02/specs/
 
